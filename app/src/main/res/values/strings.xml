@@ -1,0 +1,7 @@
+<resources>
+    <string name="Debito">CreditoDebito</string>
+    <string name="txtLogo">Sistemas VOX!</string>
+    <string name="txtInfo">Digite o Valor a ser Calculado com 2.29%</string>
+    <string name="txtBotao">Calcular Débito</string>
+    <string name="app_name">Crédito Debito, Marcelo.</string>
+</resources>
